@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8.4"
+ggez = "0.8.0-rc0"
 [lib]
 name = "double_input"
 crate-type = ["staticlib"]
